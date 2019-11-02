@@ -66,4 +66,5 @@ int main()
     Qs(x,0,le);
     Ss(y,le);
     cout<<time1<<" "<<time2<<endl;
+    system("pause");
 }
