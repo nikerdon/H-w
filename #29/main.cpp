@@ -1,3 +1,4 @@
+//Hamming code
 #include <iostream>
 #include <cstdlib>
 #include <string>
